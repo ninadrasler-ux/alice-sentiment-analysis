@@ -120,7 +120,7 @@ Possible extensions:
 
 The full Python script is available in:
 
-- `sentiment_analysis.py`
+- `alice_three_chapters_analysis.py`
 
 ---
 
